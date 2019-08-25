@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="cucumber-core-4.7.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Testowanie - cucumber/cucumber-core-4.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Testowanie - cucumber/cucumber-java-4.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Testowanie - cucumber/cucumber-java8-4.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Testowanie - cucumber/cucumber-junit-4.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Testowanie - cucumber/gherkin-7.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
